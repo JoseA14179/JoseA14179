@@ -7,7 +7,7 @@
         ¡Bienvenidos a mi perfil de GitHub! 🚀 Soy <b>Entrenador Personal</b> en Italia y un apasionado de la tecnología. Actualmente estoy fusionando mis dos mundos: el fitness de alto rendimiento y el desarrollo de software. 
       </p>
       <p align="left">
-        Estoy construyendo herramientas y sistemas operativos comerciales (PT OS) para optimizar el trabajo de entrenadores, fisioterapeutas y profesionales de la salud, llevando la gestión deportiva al siguiente nivel con código limpio y bases de datos robustas.
+        Estoy construyendo herramientas y sistemas operativos comerciales (PT OS) —tanto de escritorio como web— para optimizar el trabajo de entrenadores y profesionales de la salud, llevando la gestión deportiva al siguiente nivel con código limpio, tipado estricto y bases de datos robustas.
       </p>
     </td>
     <td valign="center" width="200">
@@ -20,7 +20,15 @@
 
 ### 🛠️ Tecnologías & Herramientas
 
-Me gusta trabajar en proyectos prácticos, estructurando interfaces dinámicas y asegurando que los datos se gestionen de forma impecable. Estas son las tecnologías que utilizo y estoy perfeccionando día a día:
+Me gusta trabajar en proyectos prácticos, estructurando interfaces dinámicas, aplicando arquitectura limpia y asegurando que los datos se gestionen de forma impecable. Estas son las tecnologías con las que trabajo:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -36,28 +44,22 @@ Me gusta trabajar en proyectos prácticos, estructurando interfaces dinámicas y
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-Learning-FF69B4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/ORM-Database-blue?style=for-the-badge&logo=databricks&logoColor=white" alt="ORM" />
-</p>
-
 ---
 
 ### 🚀 Proyectos Destacados
 
-Aquí puedes echar un vistazo a lo que estoy cocinando actualmente en mi máquina local:
+Aquí puedes echar un vistazo a lo que estoy cocinando actualmente:
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🏋️‍♂️ GymFlow DB (PT OS)</h3>
+      <h3 align="center">🏋️‍♂️ GymFlow Web (PT OS)</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Estado-En_Desarrollo-green?style=flat-square" alt="Estado">
       </p>
-      <p>Un sistema operativo comercial completo para entrenadores personales. Diseñado con <b>Flet</b> (Python) para una UI multiplataforma y una arquitectura relacional basada en <b>SQLite</b> con técnicas de borrado lógico y fichas técnicas avanzadas.</p>
+      <p>Plataforma web modular orientada a entrenadores personales. Desarrollada con <b>TypeScript</b> estricto, arquitectura Sass modular (Pattern 7-1) y persistencia de datos mediante <b>LocalStorage</b> para la gestión completa de clientes, fichas y agendas.</p>
       <p align="center">
-        <a href="https://github.com/TU_USUARIO/gymflow"><b>Ver Repositorio ↗</b></a>
+        <a href="https://github.com/TU_USUARIO/gymflow-web"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
     <td width="50%">
@@ -77,11 +79,11 @@ Aquí puedes echar un vistazo a lo que estoy cocinando actualmente en mi máquin
 
 ### 🧠 Sobre mí...
 
-* 🌍 Vivo y trabajo en **Italia**, combinando el entrenamiento presencial con el desarrollo de software.
-* 🥊 Fuera de las líneas de código, me encontrarás practicando **boxeo** y deportes de combate, o refinando técnicas de entrenamiento de fuerza.
-* 🧉 Incondicional del buen **mate tradicional** para mantener la concentración en las largas sesiones de programación.
-* 💬 Creo firmemente en que las mejores lecciones se transmiten de forma clara y directa (al puro estilo de las fábulas filosóficas clásicas).
-* 📫 **¿Quieres colaborar o charlar sobre software y fitness?** ¡Escríbeme por el canal de Discord del Máster!
+- 🌍 Vivo y trabajo en **Italia**, combinando el entrenamiento presencial con el desarrollo de software.
+- 🥊 Fuera de las líneas de código, me encontrarás practicando **boxeo** y deportes de combate, o refinando técnicas de entrenamiento de fuerza.
+- 🧉 Incondicional del buen **mate tradicional** para mantener la concentración en las largas sesiones de programación.
+- 💬 Creo firmemente en que las mejores lecciones se transmiten de forma clara y directa.
+- 📫 **¿Quieres colaborar o charlar sobre software y fitness?** ¡Escríbeme por el canal del Máster!
 
 ---
 
